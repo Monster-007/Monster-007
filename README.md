@@ -1,5 +1,10 @@
 ### Hi there 👋
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Monster-007.Monster-007)
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=Monster-007"
+    alt="Monster-007"
+  />
+</p>
 <!--
 
 
