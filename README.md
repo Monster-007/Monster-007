@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![My activity](https://github-readme-stats.vercel.app/api?username=Monster-007&show_icons=true&theme=aura)
+<img align="right" alt="GIF" src="https://github.com/Monster-007/Monster-007/blob/master/code.gif?raw=true" width="500" height="320" />
